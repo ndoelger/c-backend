@@ -1,0 +1,15 @@
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/nicholasdoelger/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
