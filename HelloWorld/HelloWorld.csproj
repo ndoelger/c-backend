@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Math\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Math\" />
+  </ItemGroup>
 </Project>
