@@ -1,0 +1,15 @@
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/bin/Debug/net7.0/IfElse and SwitchCase
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/bin/Debug/net7.0/IfElse and SwitchCase.deps.json
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/bin/Debug/net7.0/IfElse and SwitchCase.runtimeconfig.json
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/bin/Debug/net7.0/IfElse and SwitchCase.dll
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/bin/Debug/net7.0/IfElse and SwitchCase.pdb
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.csproj.AssemblyReference.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.AssemblyInfoInputs.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.AssemblyInfo.cs
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.csproj.CoreCompileInputs.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.dll
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/refint/IfElse and SwitchCase.dll
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.pdb
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/IfElse and SwitchCase.genruntimeconfig.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/IfElse and SwitchCase/IfElse and SwitchCase/obj/Debug/net7.0/ref/IfElse and SwitchCase.dll

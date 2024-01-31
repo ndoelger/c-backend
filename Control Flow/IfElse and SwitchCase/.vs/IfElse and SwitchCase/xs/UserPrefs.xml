@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DACDEBBA-12B3-4A58-8AFE-63886B85B49D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IfElse and SwitchCase/Program.cs">
+    <Files>
+      <File FileName="IfElse and SwitchCase/Program.cs" Line="13" Column="13" />
+      <File FileName="IfElse and SwitchCase/Season.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IfElse and SwitchCase" expanded="True">
+            <Node name="IfElse and SwitchCase" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.IfElse_220and_220SwitchCase PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

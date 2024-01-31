@@ -1,0 +1,15 @@
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/bin/Debug/net7.0/Reference Types & Value Types
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/bin/Debug/net7.0/Reference Types & Value Types.deps.json
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/bin/Debug/net7.0/Reference Types & Value Types.runtimeconfig.json
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/bin/Debug/net7.0/Reference Types & Value Types.dll
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/bin/Debug/net7.0/Reference Types & Value Types.pdb
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.csproj.AssemblyReference.cache
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.AssemblyInfoInputs.cache
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.AssemblyInfo.cs
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.csproj.CoreCompileInputs.cache
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.dll
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/refint/Reference Types & Value Types.dll
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.pdb
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/Reference Types & Value Types.genruntimeconfig.cache
+/Users/nicholasdoelger/Projects/Reference Types & Value Types/Reference Types & Value Types/obj/Debug/net7.0/ref/Reference Types & Value Types.dll

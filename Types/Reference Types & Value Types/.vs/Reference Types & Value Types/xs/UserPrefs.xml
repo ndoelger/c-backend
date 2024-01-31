@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{84A32F5D-0E25-4E11-8DDA-19DB6B3D3FD6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Reference Types &amp; Value Types 2/Reference Types &amp; Value Types/Program.cs">
+    <Files>
+      <File FileName="Reference Types &amp; Value Types/Program.cs" Line="9" Column="12" />
+      <File FileName="../Reference Types &amp; Value Types 2/Reference Types &amp; Value Types/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reference Types &amp; Value Types" expanded="True" selected="True">
+            <Node name="Reference Types &amp; Value Types" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Reference_220Types_220_226_220Value_220Types PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
