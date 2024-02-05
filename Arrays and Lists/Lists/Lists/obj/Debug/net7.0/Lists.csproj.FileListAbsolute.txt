@@ -1,0 +1,15 @@
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/bin/Debug/net7.0/Lists
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/bin/Debug/net7.0/Lists.deps.json
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/bin/Debug/net7.0/Lists.runtimeconfig.json
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/bin/Debug/net7.0/Lists.dll
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/bin/Debug/net7.0/Lists.pdb
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.csproj.AssemblyReference.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfoInputs.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfo.cs
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.csproj.CoreCompileInputs.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.dll
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/refint/Lists.dll
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.pdb
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/Lists.genruntimeconfig.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Lists/Lists/obj/Debug/net7.0/ref/Lists.dll

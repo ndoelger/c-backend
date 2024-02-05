@@ -1,0 +1,15 @@
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/bin/Debug/net7.0/Iterations
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/bin/Debug/net7.0/Iterations.deps.json
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/bin/Debug/net7.0/Iterations.runtimeconfig.json
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/bin/Debug/net7.0/Iterations.dll
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/bin/Debug/net7.0/Iterations.pdb
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.csproj.AssemblyReference.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.AssemblyInfoInputs.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.AssemblyInfo.cs
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.csproj.CoreCompileInputs.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.dll
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/refint/Iterations.dll
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.pdb
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/Iterations.genruntimeconfig.cache
+/Users/nicholasdoelger/Documents/C#/Control Flow/Iterations/Iterations/obj/Debug/net7.0/ref/Iterations.dll

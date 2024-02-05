@@ -1,0 +1,15 @@
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/bin/Debug/net7.0/Arrays
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/nicholasdoelger/Documents/C#/Arrays and Lists/Arrays/Arrays/obj/Debug/net7.0/ref/Arrays.dll
