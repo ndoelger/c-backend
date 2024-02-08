@@ -1,0 +1,15 @@
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/bin/Debug/net7.0/DateTime
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/bin/Debug/net7.0/DateTime.deps.json
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/bin/Debug/net7.0/DateTime.runtimeconfig.json
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/bin/Debug/net7.0/DateTime.dll
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/bin/Debug/net7.0/DateTime.pdb
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.csproj.AssemblyReference.cache
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfoInputs.cache
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfo.cs
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.dll
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/refint/DateTime.dll
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.pdb
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/DateTime.genruntimeconfig.cache
+/Users/nicholasdoelger/Documents/C#/Dates/DateTime/DateTime/obj/Debug/net7.0/ref/DateTime.dll
